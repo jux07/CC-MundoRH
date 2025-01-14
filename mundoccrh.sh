@@ -1,4 +1,4 @@
-#!/system/xbin/bash
+#1/bin/bash
 
 clear
 git clone https://github.com/REAL593/module
